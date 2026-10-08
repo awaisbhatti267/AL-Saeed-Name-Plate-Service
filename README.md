@@ -154,3 +154,10 @@ Update the `src` URL in the `<iframe>` inside `ContactForm.jsx` with a real Goog
 ## 📝 License
 
 This project is for personal/business use by AL SAEED Name Plate Service.
+
+
+## 👨‍💻 Author
+
+**Muhammad Awais Bhatti**
+Personal project — designed and developed for AL SAEED Name Plate Service, Lahore, Pakistan.
+
