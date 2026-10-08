@@ -62,7 +62,7 @@ export default function Navbar() {
             <Image
               src="/ASN.webp"
               alt="AL SAEED Logo"
-              width={70}
+              width={50}
               height={50}
               className="relative object-contain rounded-full p-0.5"
             />

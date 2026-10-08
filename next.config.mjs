@@ -4,6 +4,7 @@ const nextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
   reactCompiler: true,
+  allowedDevOrigins: ["192.168.1.9"],
   images: {
     remotePatterns: [
       {
