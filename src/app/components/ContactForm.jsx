@@ -170,7 +170,7 @@ export default function ContactForm() {
                       type="tel"
                       name="userphone"
                       id="userphone"
-                      placeholder="+92 300 123456789"
+                      placeholder="+92 300 12345678"
                       className="w-full pl-9 pr-4 py-3 bg-slate-900 text-white rounded-xl border border-slate-600 placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-1 focus:ring-yellow-400 transition-all text-sm"
                     />
                   </div>
