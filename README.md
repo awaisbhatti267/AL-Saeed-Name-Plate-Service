@@ -7,6 +7,7 @@ A modern, responsive business website for **AL SAEED Name Plate Service**, based
 ## 🌐 Live Demo
 
 > Deploying on Vercel — link will be updated here after deployment.
+> https://al-saeed-name-plate-service.vercel.app/
 
 ---
 
